@@ -1,0 +1,7 @@
+{
+    "client_id": "YOUR_CLICKUP_CLIENT_ID",
+    "client_secret": "YOUR_CLICKUP_CLIENT_SECRET",
+    "redirect_uri": "http://localhost:5000/callback",
+    "folder_id": "YOUR_CLICKUP_FOLDER_ID",
+    "google_credentials": "path/to/creds.json"
+}
